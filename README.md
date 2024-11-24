@@ -7,14 +7,9 @@ Welcome to the **Cryptography and Network Security** repository! This project co
 ## 📋 Table of Contents
 - [About the Repository](#about-the-repository)
 - [Implemented Algorithms](#implemented-algorithms)
-- [Getting Started](#getting-started)
-- [Usage Instructions](#usage-instructions)
 - [Algorithm Descriptions](#algorithm-descriptions)
 - [Learning Outcomes](#learning-outcomes)
 - [Technologies Used](#technologies-used)
-- [License](#license)
-- [Contributing](#contributing)
-- [Contact](#contact)
 
 ---
 
