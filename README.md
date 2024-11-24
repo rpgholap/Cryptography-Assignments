@@ -13,13 +13,13 @@ Welcome to the **Cryptography and Network Security** repository! This project co
 
 ---
 
-## 🌟 About the Repository
+## About the Repository
 
 This repository showcases fundamental cryptographic algorithms and techniques, implemented in Python, with clear and concise code. It is a blend of classical encryption and modern key exchange methods, aiming to deepen understanding of cryptography's role in securing information.
 
 ---
 
-## ✅ Implemented Algorithms
+## Implemented Algorithms
 
 1. **Caesar Cipher**  
 2. **Playfair Cipher**  
@@ -33,7 +33,7 @@ This repository showcases fundamental cryptographic algorithms and techniques, i
 
 ---
 
-## 📜 Algorithm Descriptions
+## Algorithm Descriptions
 
 ### 1. Caesar Cipher
 - **Description**: Substitutes each letter by a fixed number of positions.
@@ -91,7 +91,7 @@ This repository showcases fundamental cryptographic algorithms and techniques, i
 
 ---
 
-## 💡 Learning Outcomes
+## Learning Outcomes
 
 - Understand classical cryptographic techniques.
 - Implement modern key exchange algorithms.
@@ -99,7 +99,7 @@ This repository showcases fundamental cryptographic algorithms and techniques, i
 
 ---
 
-## 🧰 Technologies Used
+## Technologies Used
 
 - **Programming Language**: Python
 - **Libraries**: Standard Python libraries, NumPy (for matrix operations in Hill Cipher)
