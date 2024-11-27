@@ -22,14 +22,14 @@ This repository showcases fundamental cryptographic algorithms and techniques, i
 ## Implemented Algorithms
 
 1. [Caesar Cipher](./caesar_cipher.py)  
-2. [Playfair Cipher](./playfair_cipher.py)  
+2. [Playfair Cipher](./playfair_Cipher.py)  
 3. [Polyalphabetic Cipher](./polyalphabetic_cipher.py)  
 4. [Hill Cipher](./hill_cipher.py)  
 5. [Rail Fence Technique](./rail_fence.py)  
-6. [Simple Columnar Transposition](./simple_columnar_transposition.py)  
-7. [Advanced Columnar Transposition](./advanced_columnar_transposition.py)  
-8. [Diffie-Hellman Key Exchange](./diffie_hellman.py)  
-9. [Simple RSA Algorithm](./rsa_algorithm.py)  
+6. [Simple Columnar Transposition](./simpleColumnar.py)  
+7. [Advanced Columnar Transposition](./advancedColumnar.py)  
+8. [Diffie-Hellman Key Exchange](./diffiehellman.py)  
+9. [Simple RSA Algorithm](./rsa.py)  
 
 ---
 
